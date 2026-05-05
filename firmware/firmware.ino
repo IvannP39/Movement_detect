@@ -164,7 +164,7 @@ void loop() {
     Serial.println("/3)");
   }
   
-  delay(2000);
+  delay(200);
 }
 
 // Placeholder pour la lecture IMU
